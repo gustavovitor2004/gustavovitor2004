@@ -39,9 +39,7 @@
 
 ## 📬 Como me encontrar
 
-- 📧 Email: **seuemail@gmail.com**
-- 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- 🌐 Portfólio: [Seu Site](https://seusite.com)
+- 📧 Email: **gustavo.vbg2004@gmail.com**
 
 ---
 
