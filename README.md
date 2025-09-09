@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💻 Apaixonado por **tecnologia e programação**
-- 🚀 Atualmente aprendendo **JavaScript, React e Node.js**
+- 🚀 Atualmente aprendendo **JavaScript, Python, Html5 e Css3**
 - 🎯 Focado em Desenvolvimento Web e Back-end
 - ⚡ Curiosidade: Tenho 2,10m de altura 😅
 
