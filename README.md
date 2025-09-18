@@ -2,15 +2,14 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💻 Apaixonado por **tecnologia e programação**
-- 🚀 Atualmente aprendendo **JavaScript, Python, Html5 e Css3**
+- 🚀 Atualmente aprendendo **JavaScript, Python, Html e Css**
 - 🎯 Focado em Desenvolvimento Web e Back-end
-- ⚡ Curiosidade: Tenho 2,10m de altura 😅
+- 🎮 Amo jogos
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
