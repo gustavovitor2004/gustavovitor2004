@@ -51,8 +51,12 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gustavovitor2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavovitor2004&theme=tokyonight&column=7&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavovitor2004&theme=dracula&column=7&no-frame=true&margin-w=15&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&bg_color=0D1117" alt="Trophies" />
 </p>
 
 ---
@@ -68,7 +72,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://discord.com/users/SEU_DISCORD_ID_AQUI" target="_blank">
+  <a href="https://discord.com/users/eusoupujin" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
