@@ -56,7 +56,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavovitor2004&theme=dracula&column=7&no-frame=true&margin-w=15&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&bg_color=0D1117" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavovitor2004&theme=dracula&column=7&no-frame=true&margin-w=15&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&bg_color=0D1117" alt="Gustavo's GitHub Trophies" />
 </p>
 
 ---
