@@ -13,7 +13,6 @@
 - 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 - 💻 Apaixonado por **tecnologia**, programação e desenvolvimento web/back-end
 - 🚀 Atualmente focado em **JavaScript**, **Python**, **HTML** e **CSS**
-- 🎯 Objetivo: Tornar-me um **desenvolvedor full-stack** sólido
 - 🎮 Nos momentos de folga: jogos e séries
 
 > "Código limpo é código que você entende amanhã... ou depois de um café." ☕
