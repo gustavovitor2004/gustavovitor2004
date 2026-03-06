@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 **Student of Analysis and Systems Development (ADS)**
-- 💻 Passionate about **technology**, programming, and web/back-end development
+- 💻 Systems Analyst
 - 🚀 Currently focused on **JavaScript**, **Python**, **HTML**, and **CSS**
 - 🎮 In my free time: games and series
 
